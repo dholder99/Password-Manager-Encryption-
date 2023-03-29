@@ -15,7 +15,9 @@ This Python project involves building a secure and user-friendly password manage
 
 - <b>Kali Linux</b> 
 
-<h2>Program walk-through:</h2>
+<!--
+
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
@@ -45,6 +47,8 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+--!>
 
 <!--
  ```diff
