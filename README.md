@@ -13,7 +13,7 @@ This Python project involves building a secure and user-friendly password manage
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux</b> 
+- <b>Mac OS(Ventura)</b> 
 
 <!--
 
