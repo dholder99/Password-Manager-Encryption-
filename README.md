@@ -1,9 +1,15 @@
 <h1>Password Manager - Encryption</h1>
 
 <h2>Description</h2>
-This Python project involves building a secure and user-friendly password manager using the cryptography library to encrypt and store user credentials. The password manager features an intuitive command-line interface and allows users to create, store, and retrieve passwords securely. The project involves extensive testing and debugging to ensure that the encryption algorithms are robust and secure.
+A Python program that securely stores and manages user passwords. The program uses the Fernet encryption module to encrypt and decrypt passwords and saves them to a local SQLite database. Users can add, update, and delete passwords through a simple command-line interface.
 <br />
 
+<h2>Project Features:</h2>
+
+- <b> Stores and manages user passwords securely</b>
+- <b>Encrypts passwords using the Fernet encryption module</b> 
+- <b>Saves passwords to a local SQLite database</b> 
+- <b>Provides a simple command-line interface for adding, updating, and deleting passwords</b> 
 
 <h2>Languages and Utilities Used</h2>
 
